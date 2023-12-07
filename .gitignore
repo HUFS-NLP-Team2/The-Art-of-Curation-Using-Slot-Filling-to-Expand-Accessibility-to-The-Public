@@ -185,5 +185,4 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
-/dataset/glove.6B.200d.txt
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
